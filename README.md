@@ -4,6 +4,7 @@ This is InsuranceFraud_Detection project.
 To build a classification methodology to determine whether a customer is placing a fraudulent insurance claim.
 
 ###### Project Description -------> Project Description.docx
+https://github.com/vivekjadhav-vj/InsuranceFraud_Detection/blob/main/Project%20Description.docx
 
 ## Deployment
 We will be deploying the model to the Heroku Cloud Foundry platform. 
