@@ -1,0 +1,54 @@
+2021-01-04/22:51:54		Start of Validation on files for prediction!!
+2021-01-04/22:51:55		Raw Data Validation Complete!!
+2021-01-04/22:51:55		Starting Data Transforamtion!!
+2021-01-04/22:51:55		DataTransformation Completed!!!
+2021-01-04/22:51:55		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-01-04/22:51:59		Table creation Completed!!
+2021-01-04/22:51:59		Insertion of Data into Table started!!!!
+2021-01-04/22:52:52		Insertion in Table completed!!!
+2021-01-04/22:52:52		Deleting Good Data Folder!!!
+2021-01-04/22:52:52		Good_Data folder deleted!!!
+2021-01-04/22:52:52		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-01-04/22:52:52		Bad files moved to archive!! Bad folder Deleted!!
+2021-01-04/22:52:52		Validation Operation completed!!
+2021-01-04/22:52:52		Extracting csv file from table
+2021-01-04/22:52:52		Start of Prediction
+2021-01-04/22:52:52		Entered the get_data method of the Data_Getter class
+2021-01-04/22:52:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-04/22:52:52		Entered the remove_columns method of the Preprocessor class
+2021-01-04/22:52:52		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-01-04/22:52:52		Entered the is_null_present method of the Preprocessor class
+2021-01-04/22:52:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-01-04/22:52:52		Entered the impute_missing_values method of the Preprocessor class
+2021-01-04/22:52:53		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-01-04/22:52:53		Entered the encode_categorical_columns method of the Preprocessor class
+2021-01-04/22:52:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-01-04/22:52:53		Entered the scale_numerical_columns method of the Preprocessor class
+2021-01-04/22:52:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-01-04/22:52:53		Entered the load_model method of the File_Operation class
+2021-01-04/22:52:53		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-01-04/22:52:53		Entered the find_correct_model_file method of the File_Operation class
+2021-01-04/22:52:53		Exited the find_correct_model_file method of the Model_Finder class.
+2021-01-04/22:52:53		Entered the load_model method of the File_Operation class
+2021-01-04/22:52:53		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2021-01-04/22:52:53		End of Prediction
+2021-01-04/23:01:40		Start of Validation on files for prediction!!
+2021-01-04/23:02:42		Start of Validation on files for prediction!!
+2021-01-04/23:02:44		Start of Validation on files for prediction!!
+2021-01-04/23:03:49		Start of Validation on files for prediction!!
+2021-01-04/23:03:50		Start of Validation on files for prediction!!
+2021-01-04/23:04:33		Start of Validation on files for prediction!!
+2021-01-04/23:04:34		Start of Validation on files for prediction!!
+2021-01-04/23:04:34		Start of Validation on files for prediction!!
+2021-01-04/23:04:34		Start of Validation on files for prediction!!
+2021-01-04/23:04:34		Start of Validation on files for prediction!!
+2021-01-04/23:04:35		Start of Validation on files for prediction!!
+2021-01-04/23:04:35		Start of Validation on files for prediction!!
+2021-01-04/23:04:35		Start of Validation on files for prediction!!
+2021-01-04/23:04:35		Start of Validation on files for prediction!!
+2021-01-04/23:04:36		Start of Validation on files for prediction!!
+2021-01-04/23:04:36		Start of Validation on files for prediction!!
+2021-01-04/23:04:36		Start of Validation on files for prediction!!
+2021-01-04/23:04:36		Start of Validation on files for prediction!!
+2021-01-04/23:15:48		Start of Validation on files for prediction!!
+2021-01-04/23:17:03		Start of Validation on files for prediction!!
